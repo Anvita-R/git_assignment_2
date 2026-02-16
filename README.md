@@ -5,5 +5,5 @@ Semester: 4th
 
  Hey wanna watch BL
 
-&nbsp; on Sunday, in my room
+  on Sunday, in my room.
 
