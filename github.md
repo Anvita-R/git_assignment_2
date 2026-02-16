@@ -8,3 +8,5 @@ github features
 6.Supports collaboration.
 7.Branching is easier.
 8.Distributed development.
+9.Staging Area (The "Index")
+10.Data Integrity (Hashing)
